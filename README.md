@@ -10,3 +10,4 @@
 7. [String Task 118A](https://codeforces.com/contest/118/problem/A)
 8. [Bit++ 282A](https://codeforces.com/contest/282/problem/A)
 9. [Petya and Strings 112A](https://codeforces.com/contest/112/problem/A)
+10. [Beautiful Matrix 263A](https://codeforces.com/problemset/problem/263/A)
