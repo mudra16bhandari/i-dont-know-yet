@@ -11,3 +11,6 @@
 8. [Bit++ 282A](https://codeforces.com/contest/282/problem/A)
 9. [Petya and Strings 112A](https://codeforces.com/contest/112/problem/A)
 10. [Beautiful Matrix 263A](https://codeforces.com/problemset/problem/263/A)
+11. [Word Capitalization 281A](https://codeforces.com/problemset/problem/281/A)
+12. [Boy or Girl 236A](https://codeforces.com/problemset/problem/236/A)
+13. [Soldier and Bananas 546A](https://codeforces.com/problemset/problem/546/A)
